@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lsonali
 - 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning MCA
+- 🌱 I’ve recently completed MCA
 - 💞️ I’m looking to collaborate on Front End Projects
 - 📫 How to reach me :Sahoosona555@gmail.com
 - 😄 Pronouns: ...
